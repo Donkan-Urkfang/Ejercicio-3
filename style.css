@@ -1,0 +1,78 @@
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+/* Colores */
+.colormarron {
+    color: rgb(118, 83, 70);
+}
+.colornaranja {
+    color: rgb(239, 107, 32);
+}
+.colorceleste {
+    color: rgb(45, 169, 195);
+}
+.colorrojo {
+    color: rgb(239, 62, 72);
+}
+.coloramarillo {
+    color: rgb(216, 176, 57);
+}
+
+
+img {
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(118, 83, 70);
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+
+h3 {
+    color: white;
+    background-color: rgb(118, 83, 70);
+    margin-left: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+
+}
+h4 {
+    display: inline;
+}
+li {
+    color: rgb(118, 83, 70);
+    margin-left: 50px;
+}
+
+p {
+    color: rgb(118, 83, 70);
+    margin-left: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.enlace1 {
+    margin-left: 8px;
+    font-size: 30px;
+    font-weight: 900;
+}
+.enlace2 {
+    font-weight: 900;
+}
+
